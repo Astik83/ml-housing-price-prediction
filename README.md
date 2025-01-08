@@ -130,3 +130,8 @@ The project includes visualizations to help understand the relationships between
 - **Feature Importance**: Helps in understanding which features are more important for predicting housing prices.
 
 ---
+
+## 📧 Contact  
+For queries or suggestions, reach out:  
+- **GitHub**: [Astik83](https://github.com/Astik83)  
+- **Email**: [shahastik123@gmail.com] 
